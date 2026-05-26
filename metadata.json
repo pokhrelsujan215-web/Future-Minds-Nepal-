@@ -1,0 +1,6 @@
+{
+  "name": "Future Minds",
+  "description": "Nepalese Youth NGO app with financial transparency, volunteering, projects, and donation management plus AI support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

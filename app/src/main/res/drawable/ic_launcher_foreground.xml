@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Professional Rising Star of Youth Opportunity & Education -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 L62,42 L80,42 L65,52 L71,70 L54,59 L37,70 L43,52 L28,42 L46,42 Z" />
+    
+    <!-- Base Wave lines representing local Nepalese mountain ridges and valleys -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M24,80 C36,74 44,82 54,78 C64,74 72,82 84,76" />
+</vector>
